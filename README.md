@@ -1,4 +1,7 @@
-fuel_plugin_example_v3
+fuel_plugin_dd
 ============
 
-Plugin description
+My first plugin experience.
+
+Dmitry Dmitriev
+dmdmitriev@mirantis.com
