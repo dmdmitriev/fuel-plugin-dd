@@ -1,7 +1,7 @@
 # Plugin name
-name: fuel_plugin_example_v3
+name: fuel_plugin_dd
 # Human-readable name for your plugin
-title: Title for fuel_plugin_example_v3 plugin
+title: Title for fuel_plugin_dd plugin
 # Plugin version
 version: '3.0.0'
 # Description

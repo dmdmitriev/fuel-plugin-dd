@@ -2,7 +2,7 @@
 set -eux
 
 # It's a script which deploys your plugin
-echo fuel_plugin_example_v3 > /tmp/fuel_plugin_example_v3_sh
+echo fuel_plugin_dd > /tmp/fuel_plugin_dd_sh
 
 OS_NAME=''
 if   grep -i CentOS /etc/issue.net >/dev/null; then

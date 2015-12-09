@@ -1,5 +1,5 @@
 # Unique network role name
-- id: "fuel_plugin_example_v3"
+- id: "fuel_plugin_dd"
   # Role mapping to network
   default_mapping: "public"
   properties:
@@ -18,4 +18,4 @@
          # Optional node role list to map VIP to (defaults to
          # primary-controller and controller)
          node_roles:
-           - "fuel_plugin_example_v3"
+           - "fuel_plugin_dd"

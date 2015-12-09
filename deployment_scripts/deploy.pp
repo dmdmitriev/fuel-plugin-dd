@@ -1,12 +1,12 @@
-notice('PLUGIN: fuel_plugin_example_v3 - deploy.pp')
+notice('PLUGIN: fuel_plugin_dd - deploy.pp')
 
-class fuel_plugin_example_v3 {
-  file { '/tmp/fuel_plugin_example_v3_puppet':
+class fuel_plugin_dd {
+  file { '/tmp/fuel_plugin_dd_puppet':
       owner   => 'root',
       group   => 'root',
       mode    => 0644,
-      content => "fuel_plugin_example_v3\n",
+      content => "fuel_plugin_dd\n",
   }
 }
 
-class {'fuel_plugin_example_v3': }
+class {'fuel_plugin_dd': }

@@ -1,5 +1,5 @@
 attributes:
-  fuel_plugin_example_v3_text:
+  fuel_plugin_dd_text:
     value: 'Set default value'
     label: 'Text field'
     description: 'Description for text field'
